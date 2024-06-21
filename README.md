@@ -22,6 +22,12 @@ TODO: List what your package can do. Maybe include images, gifs, or videos.
 
 TODO: List prerequisites and provide or point to information on how to
 start using the package.
+
+  
+![auto Type Demo](https://github.com/Alicode1382/autotype/assets/72864961/bf491215-c5b6-457f-ab5d-30dad77599bf)
+
+
+
 ## Parametrs
 
 `currentCharIndex` (int): The current index of the character being typed within the current text string. Defaults to 0.
