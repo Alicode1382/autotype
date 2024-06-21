@@ -25,9 +25,13 @@ start using the package.
 ## Parametrs
 
 `currentCharIndex` (int): The current index of the character being typed within the current text string. Defaults to 0.
+
 `currentIndex` (int): The index of the current text string within the textsCharacter list. Defaults to 0.
+
 `repeat` (bool): If true, the typewriter effect will repeat from the beginning after finishing all text strings. Defaults to false.
+
 `textsCharacter` (List<String>): A list of strings that the typewriter will display one by one.
+
 `updateCallback` (void Function(String)): A callback function that receives the current state of the text being typed, allowing it to be updated in the UI.
 
 ## Usage
