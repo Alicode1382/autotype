@@ -23,7 +23,8 @@ TODO: List what your package can do. Maybe include images, gifs, or videos.
 TODO: List prerequisites and provide or point to information on how to
 start using the package.
 
-  
+## Demo Video
+
 ![auto Type Demo](https://github.com/Alicode1382/autotype/assets/72864961/bf491215-c5b6-457f-ab5d-30dad77599bf)
 
 
@@ -91,8 +92,8 @@ class _HomePageState extends State<HomePage> {
 
 ```
 
-## Additional information
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
