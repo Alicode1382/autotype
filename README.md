@@ -38,7 +38,7 @@ start using the package.
 
 `updateCallback` (void Function(String)): A callback function that receives the current state of the text being typed, allowing it to be updated in the UI.
 
-## Example
+## How To Use
 
 TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder.
