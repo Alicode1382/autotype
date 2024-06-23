@@ -40,8 +40,7 @@ start using the package.
 
 ## How To Use
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+If you want to know how to use the package, go to the example folder
 
 ```dart
 import 'package:auto_type/auto_type.dart';
