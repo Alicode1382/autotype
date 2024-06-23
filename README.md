@@ -40,7 +40,7 @@ start using the package.
 
 ## How To Use
 
-If you want to know how to use the package, go to the example folder
+If you want to know how to use the package, go to the example folder Directory: `example/lib/homepage.dart`
 
 ```dart
 import 'package:auto_type/auto_type.dart';
