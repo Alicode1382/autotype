@@ -1,6 +1,6 @@
 name: auto_type
-description: auto type package.
-version: 0.0.1
+description: This library is for typing strings character by character.
+version: 0.0.2
 homepage: https://github.com/Alicode1382
 repository: https://github.com/Alicode1382/autotype/tree/master
 
