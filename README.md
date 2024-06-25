@@ -22,7 +22,7 @@ start using the package.
 
 ## Demo Video
 
-<img src="https://github.com/Alicode1382/autotype/assets/72864961/bf491215-c5b6-457f-ab5d-30dad77599bf" width="600" height="400" />
+<img src="https://github.com/Alicode1382/autotype/assets/72864961/bf491215-c5b6-457f-ab5d-30dad77599bf" width="400" height="900" />
 
 
 
