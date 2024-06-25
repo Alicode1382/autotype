@@ -22,7 +22,8 @@ start using the package.
 
 ## Demo Video
 
-![auto Type Demo](https://github.com/Alicode1382/autotype/assets/72864961/bf491215-c5b6-457f-ab5d-30dad77599bf)
+<img src="https://github.com/Alicode1382/autotype/assets/72864961/bf491215-c5b6-457f-ab5d-30dad77599bf" width="600" height="400" />
+
 
 
 
